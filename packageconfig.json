@@ -1,7 +1,7 @@
 ﻿{
 
     "packageName": "Cloudmersive.APIClient.NETCore.FraudDetection",
-    "packageVersion": "2.0.2",
+    "packageVersion": "2.0.3",
     "netCoreProjectFile": "true",
     "packageGuid": "ae124a5f-9c25-4769-b913-0eb04220a465",
     "targetFramework": "v5.0"
